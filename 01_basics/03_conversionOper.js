@@ -24,3 +24,14 @@ In boolean conversion
     if 0 or null value it converts to false
     else true
 */
+
+/***OPERATIONS***/ 
+console.log("1" + 2);
+console.log(1 + "2")
+
+console.log("1"+2+2)
+console.log(1+2+"2");
+
+//Not Important
+console.log(+true);
+console.log(+"");
