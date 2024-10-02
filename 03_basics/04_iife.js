@@ -1,4 +1,4 @@
-// Immediately Invoked Function Expressions )(IIFE)
+// Immediately Invoked Function Expressions (IIFE)
 
 (function iife() {
     console.log(`DB connected`);
